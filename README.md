@@ -7,8 +7,8 @@
 
 # Tech. Stack Used:
 
-+ [ChartJs JavaScript Library](https://www.chartjs.org/)
-+ [AnimeJs JavaScript Library](https://animejs.com/)
++ [Chart.js JavaScript Library](https://www.chartjs.org/)
++ [Anime.js JavaScript Library](https://animejs.com/)
 + [MVC Framework](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 + [HTML5](https://en.wikipedia.org/wiki/HTML5)
 + [CSS3](https://en.wikipedia.org/wiki/CSS)

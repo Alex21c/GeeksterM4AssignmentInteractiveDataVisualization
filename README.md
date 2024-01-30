@@ -14,7 +14,7 @@
 + [CSS3](https://en.wikipedia.org/wiki/CSS)
 + [Tailwind CSS](https://tailwindcss.com/)
 + [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
-+ [Font Awesome](https://fontawesome.com/icons)
++ [Font Awesome Icons](https://fontawesome.com/icons)
 + [Google Fonts](https://fonts.google.com/)
 + [Git](https://en.wikipedia.org/wiki/Git)
 + [GitHub](https://github.com/)

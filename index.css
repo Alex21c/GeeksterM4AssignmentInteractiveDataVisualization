@@ -29,3 +29,38 @@ body{
   font-family: 'Roboto', sans-serif;
   font-size: 1rem;
 }
+
+/* MEDIA QUERIES */
+
+@media screen and (max-width:478px){
+
+  h1 span.assignmentTitle{
+    font-size:1.7rem;
+  }
+  h1 a.geeksterPromo{
+    font-size:1.2rem;
+  }
+  select#selectChartType{
+    padding:.5rem;
+  }
+  form{
+    margin:0;
+  }
+}
+
+@media screen and (max-width:385px){
+
+  h1 span.assignmentTitle{
+    font-size:1.5rem;
+  }
+  h1 a.geeksterPromo{
+    font-size:1rem;
+  }
+
+  table#tableInvestmentData tr{
+    width:18rem;
+  }
+  table#tableInvestmentData tr td.investmentName{
+    width:7rem;
+  }
+}

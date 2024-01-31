@@ -3,6 +3,7 @@
     "tailwindcss": "^3.4.1"
   },
   "dependencies": {
+    "animejs": "^3.2.2",
     "chart.js": "^4.4.1"
   }
 }

@@ -1,5 +1,10 @@
 # Assignment, Interactive Data Visualization (Geekster MERN Stack Module 4)
+finally after packing & bundling with parcel.js, babel.js ; my assignment is complete, parcel and babel are new to me. the question was in this assignment i'm required to make use of javascript libraries like graph.js and anime.js and i'm strictly against cdn links for production, so i installed them using npm. 
+Now question arises it was working fine for my localhost, i completed the development but when posted on github pages for production, my web application broke.
+i research and found i need to package and bundle my web app using parcel.js and babel.js and it took me whole 2 days to figure it out exactly how!
+and finally its here!
 
+Completed Geekster assignment: Interactive Data Visualization Assignment
 
 
 ![](thumbnail.png)

@@ -24,7 +24,7 @@
 + [VS Code](https://code.visualstudio.com/)
 
 # Hosted Version of the Project:
-[Geekster M4 Assignment&mdash;Interactive Data Visualization](https://alex21c.github.io/GeeksterM4AssignmentInteractiveDataVisualization/dist/)
+[Geekster M4 Assignment&mdash;Interactive Data Visualization](https://alex21c.github.io/GeeksterM4AssignmentInteractiveDataVisualization/dist/index.html)
 
 # Author
 [Abhishek kumar](https://www.linkedin.com/in/alex21c/), ([Geekster](https://geekster.in/) MERN Stack FS-14 Batch)

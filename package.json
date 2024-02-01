@@ -16,5 +16,8 @@
     "chart.js": "^4.4.1",
     "core-js": "^3.35.1",
     "regenerator-runtime": "^0.14.1"
+  },
+  "parcel": {
+    "output": "dist"
   }
 }

@@ -1,0 +1,1 @@
+{"mappings":"AAAA;AACA,MAAM;IACJ,aAAa,CAGb;AAIF,EACA,wBAAwB","sources":["Model.js"],"sourcesContent":["'use strict';\nclass Model{\n  constructor(){    \n    \n   \n  }  \n\n\n\n}\n// export default Model;"],"names":[],"version":3,"file":"index.05733b48.js.map","sourceRoot":"/__parcel_source_root/"}

@@ -1,4 +1,7 @@
 'use strict';
+import anime from 'animejs/lib/anime.es.js';
+import Chart from 'chart.js/auto';
+
 class View{
 
   constructor(model){
@@ -215,3 +218,4 @@ class View{
   
 }  
 
+export default View;

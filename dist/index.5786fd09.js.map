@@ -1,0 +1,1 @@
+{"mappings":"","sources":["Controller.js"],"sourcesContent":["'use strict';\nclass Controller{ \n\n  constructor(view, model){\n    this.view = view;\n    this.model = model;\n   \n  }\n  \n\n}\n// export default Controller;"],"names":[],"version":3,"file":"index.5786fd09.js.map"}

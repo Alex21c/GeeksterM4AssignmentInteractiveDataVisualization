@@ -1,0 +1,1 @@
+{"mappings":"AAAA;AAEE,IAAI,QAAQ,IAAI;AAChB,IAAI,OAAO,IAAI,KAAK;AACpB,IAAI,YAAY,IAAI,WAAW,MAAM","sources":["index.js"],"sourcesContent":["'use strict';\n\n  let model = new Model();\n  let view = new View(model);\n  let contoller = new Controller(view, model);\n\n\n"],"names":[],"version":3,"file":"index.c36f364e.js.map","sourceRoot":"/__parcel_source_root/"}

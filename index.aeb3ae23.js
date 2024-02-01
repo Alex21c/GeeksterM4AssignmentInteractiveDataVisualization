@@ -1,0 +1,2 @@
+var e=globalThis,r={},t={},o=e.parcelRequire94c2;null==o&&((o=function(e){if(e in r)return r[e].exports;if(e in t){var o=t[e];delete t[e];var n={id:e,exports:{}};return r[e]=n,o.call(n.exports,n,n.exports),n.exports}var i=Error("Cannot find module '"+e+"'");throw i.code="MODULE_NOT_FOUND",i}).register=function(e,r){t[e]=r},e.parcelRequire94c2=o),(0,o.register)("7h9SY",function(e,r){Object.defineProperty(e.exports,"default",{get:()=>t,set:void 0,enumerable:!0,configurable:!0});var t=class{constructor(){}}}),o("7h9SY");
+//# sourceMappingURL=index.aeb3ae23.js.map
